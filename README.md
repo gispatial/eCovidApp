@@ -3,7 +3,7 @@
  <img src="https://github.com/gispatial/eCovidApp/blob/master/assets/images/ncovv.png" width="100%">
  …or create a new repository on the command line
 
-## echo "# TDMP" >> README.md
+## echo "# eCovidApp" >> README.md
 git init
 git commit -m "first commit"
 git remote add origin https://github.com/gispatial/eCovidApp.git
