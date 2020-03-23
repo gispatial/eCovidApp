@@ -1,6 +1,6 @@
 # eCovidApp
  Awareness Expo React-Native Mobile App
- <img src="https://github.com/gispatial/TDMP/blob/master/public/tc-dashboard.png" width="100%">
+ <img src="https://github.com/gispatial/eCovidApp/blob/master/assets/images/ncovv.png" width="100%">
  …or create a new repository on the command line
 
 ## echo "# TDMP" >> README.md
@@ -27,5 +27,5 @@ $ npm i
 then
 $ expo start
 
-<img src="https://github.com/gispatial/TDMP/blob/master/public/tc-dashboard.png" width="100%">
+<img src="https://github.com/gispatial/eCovidApp/blob/master/assets/images/pandemic.png" width="100%">
 This is public contribution awareness development are done by JustEd@R.Aidy - Sr. GispatialTech Frontend Software Engineer
