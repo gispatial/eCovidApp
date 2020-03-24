@@ -3,7 +3,7 @@
 Direct built apk: eCovidApp React-Native shared with Google Drive link_
 My contribution for current nCov / Corona Virus crisis. 
 #reactnative #android #apk #sdk #android_signed_apk
-https://drive.google.com/drive/u/1/folders/1jwl9uwLbiGbBxMW8P4VPa6xYNln0YAzA
+https://drive.google.com/open?id=1ODreB7NAsqFnDZ0VN5vEE7fq6XB7AQMq
  <img src="https://github.com/gispatial/eCovidApp/blob/master/assets/images/ncovv.png" width="100%">
  …or create a new repository on the command line
 
