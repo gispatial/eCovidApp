@@ -1,6 +1,6 @@
 # eCovidApp
  Awareness Expo React-Native Mobile App
-Direct built apk: Here's the generated APK eCovidApp React-Native shared with Google Drive link_
+Direct built apk: eCovidApp React-Native shared with Google Drive link_
 My contribution for current nCov / Corona Virus crisis.
 https://drive.google.com/drive/u/1/folders/1jwl9uwLbiGbBxMW8P4VPa6xYNln0YAzA
 #reactnative #android #apk #sdk #android_signed_apk
