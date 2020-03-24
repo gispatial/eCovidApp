@@ -31,4 +31,8 @@ $ expo start
 https://expo.io/@gispatialtech/eCovidApp-by-JustEd
 
 <img src="https://github.com/gispatial/eCovidApp/blob/master/assets/images/pandemic.png" width="100%">
+Direct link to built apk link: Here's the generated Expo Android APK eCovidApp shared with Google Drive link_
+My contribution for current nCov / Corona Virus crisis.
+https://drive.google.com/drive/u/1/folders/1jwl9uwLbiGbBxMW8P4VPa6xYNln0YAzA
+#reactnative #android #apk #sdk #android_signed_apk
 This is public contribution awareness development are done by JustEd@R.Aidy - Sr. GispatialTech Frontend Software Engineer
