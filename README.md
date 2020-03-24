@@ -35,4 +35,4 @@ $ expo start
 https://expo.io/@gispatialtech/eCovidApp-by-JustEd
 
 <img src="https://github.com/gispatial/eCovidApp/blob/master/assets/images/pandemic.png" width="100%">
-This is public contribution awareness development are done by JustEd@R.Aidy - Sr. GispatialTech Frontend Software Engineer
+This public contribution awareness development are done by JustEd@R.Aidy - Sr. GispatialTech Frontend Software Engineer
