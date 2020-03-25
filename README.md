@@ -6,7 +6,8 @@ My contribution for current nCov / Corona Virus crisis.
 https://drive.google.com/open?id=1ODreB7NAsqFnDZ0VN5vEE7fq6XB7AQMq
  <img src="https://github.com/gispatial/eCovidApp/blob/master/assets/images/ncovv.png" width="100%">
  …or create a new repository on the command line
-
+## Screenshot
+<img src="https://github.com/gispatial/eCovidApp/blob/master/assets/images/nc.png" width="100%">
 ## echo "# eCovidApp" >> README.md
 git init
 git commit -m "first commit"
